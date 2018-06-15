@@ -1,0 +1,14 @@
+.DS_Store
+body/*.bbl    
+body/*.out   
+body/*.synctex.gz
+body/*.toc       
+body/*.log
+body/*.aux  
+body/*.log    
+body/*.pdf     
+*.aux
+*.dvi
+*.log
+*.pdf
+*.log

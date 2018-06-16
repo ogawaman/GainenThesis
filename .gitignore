@@ -12,3 +12,6 @@ body/*.pdf
 *.log
 *.pdf
 *.log
+*.out
+*.gz
+*.toc

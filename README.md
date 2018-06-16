@@ -14,6 +14,9 @@
   - このコマンドでいったん最新のリモートの状態を反映させる。これで第二段階終了。
 - git push -u origin develop:develop
   - これでローカルの変更点をリモートへと追加できる。
+  - permission denied になったら、以下を試す
+    - eval `ssh-agent`
+    - ssh-add ~/.ssh/GitHub_key
 
 ## 各ファイルの説明
 main.tex

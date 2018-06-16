@@ -15,7 +15,7 @@
 - git push -u origin develop:develop
   - これでローカルの変更点をリモートへと追加できる。
   - permission denied になったら、以下を試す
-    - eval ¥`ssh-agent¥`
+    - eval ``ssh-agent``
     - ssh-add ~/.ssh/GitHub_key
 
 ## 各ファイルの説明

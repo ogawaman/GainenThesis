@@ -6,12 +6,11 @@ body/*.toc
 body/*.log
 body/*.aux  
 body/*.log    
-body/*.pdf     
 *.aux
 *.dvi
 *.log
-*.pdf
 *.log
 *.out
 *.gz
 *.toc
+main.pdf
